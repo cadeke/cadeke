@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @casperdekeyser
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security & devops
 - 🌱 I’m currently learning pico-ducky
 - 📫 How to reach me casper.dekeyser@gmail.com
 
