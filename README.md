@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @casperdekeyser
+- 👋 Hi, I’m @cadeke
 - 👀 I’m interested in cyber security & devops
-- 🌱 I’m currently learning pico-ducky
-- 📫 How to reach me casper.dekeyser@gmail.com
+- 🌱 I’m currently learning jupyter notebooks
+- 📫 How to reach me cadeke@duck.com
 
 <!---
 casperdekeyser/casperdekeyser is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
