@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cadeke
 - 👀 I’m interested in cyber security & devops
-- 🌱 I’m currently learning jupyter notebooks
+- 🌱 I’m currently learning golang & docker
 - 📫 How to reach me cadeke@duck.com
 
 <!---
